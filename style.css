@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+  }
+
+body{
+    background-color: rgb(0, 0, 0);
+}  
+
+a:link,
+a:visited{
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(109, 29, 29);
+    text-decoration: none;
+}
+
+
+.nav-bar{
+    background-color: gray;
+    background-image: linear-gradient(right, rgb(80, 80, 80), gray);
+    align-self: center;
+    display: flex;
+    flex-flow: row-reverse nowrap;
+}
+
+.nav-item{
+    background-color: brown;
+    padding: 2px;
+    border-color: black;
+    margin-left: 2px;
+
+    font-size: 1.4em;
+    align-items: flex-end;
+}
+
+
+p{
+    font-size: small;
+}
+
+.container{
+    align-content: center;
+    align-self: center;
+
+}
+
+div{
+    background-color: gold;
+    width: auto;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+
+}
