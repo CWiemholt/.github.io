@@ -1,13 +1,14 @@
 
-function myFunction() {
+function contact() {
 
   let x = document.getElementById("validator").value;
-
+  const req = /['@]/;
+  const forbid = /['!#$%^&*()]/;
   let text;
-  if (isNaN(x) || x < 1 || x > 100) {
-    text = "Input not valid";
+  if (x=="" || req.test(x) ==false || forbid.test(x) == true) {
+    text = "Email not valid";
   } else {
-    text = "Input OK";
+    text = "Valid email";
   }
   document.getElementById("demo").innerHTML = text;
 }

@@ -1,3 +1,5 @@
+General Notes / Comments below
+
 I guess this is for nothing down how to get stuff to work.
 
 I started by just getting the nav-bar using flex boxes to work. After which I played around with the linking abilities.
@@ -13,3 +15,11 @@ how to do this properly. Grrr.
 
 Wow. So figured out the issue. I just needed to set the margin to auto in the .css file. I feel like a novice now haha.
 Oh well, live and learn right?
+
+
+Tech Used:
+
+So I utilized quite a few pages from W3Schools tutorials for using CSS as well as a few HTML elements. 
+In particular I ended up taking their structure for a submission form and am repurposing it for my own useage.
+IE, I just needed the outline of the script, to remember what I needed to include for it to work properly.
+

@@ -53,7 +53,9 @@ a:hover{
 .logo{
     text-decoration: none;
 }
-
+td{
+    font-size: medium;
+}
 
 p{
     font-size: medium;
