@@ -9,3 +9,7 @@ Alright, now I at least figured out that I had waaaaaaaaaaaaaaaaaaay too many ce
 Went through them all and just started removing ones because this div centering is annoying. I know it's something 
 simple, probably a mistake from the first pass commit. Though I'm not sure what it is, going to start looking up
 how to do this properly. Grrr.
+
+
+Wow. So figured out the issue. I just needed to set the margin to auto in the .css file. I feel like a novice now haha.
+Oh well, live and learn right?

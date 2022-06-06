@@ -20,8 +20,10 @@ a:hover{
 }
 
 .paragraph{
+    margin: auto;
     width: 50%;
-
+    align-content: center;
+    text-align: center;
 }
 
 .nav-bar{
@@ -44,9 +46,14 @@ p{
     font-size: medium;
 }
 
+.item-1{
+    align-content: center;
+
+}
 
 
 div{
     background-color: gold;
     text-align: center;
+    align-content: center;
 }
