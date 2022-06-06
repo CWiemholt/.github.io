@@ -1,0 +1,6 @@
+I guess this is for nothing down how to get stuff to work.
+
+I started by just getting the nav-bar using flex boxes to work. After which I played around with the linking abilities.
+It's a bit difficult for mme to figure out how to get stuff to center in the div's I'm making in the yellow spaces.
+
+Like, when I put it to 50% and just want it to align center, it wont. Need to dig into that.
