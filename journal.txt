@@ -1,11 +1,29 @@
+Cody Wiemholt
+Intro To WebDev
+Final Project Journal 
+June 6th, 2022
+
+Deployed website link:
+
+https://cwiemholt.github.io/
+
+
+
 General Notes / Comments below
 
 I guess this is for nothing down how to get stuff to work.
 
 I started by just getting the nav-bar using flex boxes to work. After which I played around with the linking abilities.
-It's a bit difficult for mme to figure out how to get stuff to center in the div's I'm making in the yellow spaces.
+It's a bit difficult for me to figure out how to get stuff to center in the div's I'm making in the yellow spaces.
 
 Like, when I put it to 50% and just want it to align center, it wont. Need to dig into that.
+Also, need to look into how to get forms to work correctly. And then how to modify the form example I have into what I actually need it to do, which is to validate email addresses.
+
+The validation will only be checking for the @ symbol being present, and then excluding the following:
+!#$%^&*() 
+From the user’s email address. This took some serious googling to figure out, which I explain in the tech referenced section.
+
+
 
 Alright, now I at least figured out that I had waaaaaaaaaaaaaaaaaaay too many center attempts in the css file.
 Went through them all and just started removing ones because this div centering is annoying. I know it's something 
@@ -13,13 +31,20 @@ simple, probably a mistake from the first pass commit. Though I'm not sure what 
 how to do this properly. Grrr.
 
 
-Wow. So figured out the issue. I just needed to set the margin to auto in the .css file. I feel like a novice now haha.
-Oh well, live and learn right?
+Wow. So I figured out the issue. I just needed to set the margin to auto in the .css file. I feel like a novice now haha.
+Oh well, live and learn right? At least it’s not as crazy of a headache as I had anticipated, given I removed at least 10 centering attempts haha. The interesting thing is how many of those were content alignments and just did absolutely nothing. I should look into this more later on.
+
+This has been quite a challenge in order to achieve all the elements I wanted to include. Unfortunately, I ended up with a lot of other coursework that I didn’t realize was due over the weekend and greatly reduced my ability to work on the assignment.
+
+One thing that I do like is that while it’s a bit rough around the edges, the color combinations are somewhat pleasing to myself? I don’t have any real experience in UI / UX design, but the black and yellow dominate colors are nice. It took me a long time to figure out the exact shade and transparency of the yellow color. I didn’t want it to look like a highlighter yellow. 
 
 
-Tech Used:
+
+
+Tech referenced:
 
 So I utilized quite a few pages from W3Schools tutorials for using CSS as well as a few HTML elements. 
 In particular I ended up taking their structure for a submission form and am repurposing it for my own useage.
 IE, I just needed the outline of the script, to remember what I needed to include for it to work properly.
+
 

@@ -14,3 +14,5 @@ From this, I learned how to utilize the test methods of a const, in order to uti
 in the conditional determmining is the email is valid or not. 
 
 For simplicity, I only check that it contains the @ symbol, and no other special characters from 0-9.
+
+Could definately improve on what I have here, however it was interesting to utilize the various concepts from the quarter.
