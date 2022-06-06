@@ -4,3 +4,8 @@ I started by just getting the nav-bar using flex boxes to work. After which I pl
 It's a bit difficult for mme to figure out how to get stuff to center in the div's I'm making in the yellow spaces.
 
 Like, when I put it to 50% and just want it to align center, it wont. Need to dig into that.
+
+Alright, now I at least figured out that I had waaaaaaaaaaaaaaaaaaay too many center attempts in the css file.
+Went through them all and just started removing ones because this div centering is annoying. I know it's something 
+simple, probably a mistake from the first pass commit. Though I'm not sure what it is, going to start looking up
+how to do this properly. Grrr.
