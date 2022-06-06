@@ -37,14 +37,14 @@ a:hover{
 
 .nav-bar{
     background-color: gray;
-    background-image: linear-gradient(right, rgb(122, 62, 62), gray);
+    background-image: linear-gradient(right, rgba(211, 102, 102, 0.685), gray);
     display: flex;
     flex-flow: row-reverse nowrap;
 }
 
 .nav-item{
-    background-color: brown;
-    padding: 2px;
+    background-color: rgba(226, 59, 59, 0.89);
+    padding: 4px;
     border-color: black;
     margin-left: 2px;
     font-size: 1.4em;
